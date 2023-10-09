@@ -22,8 +22,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
-    //public static final String URLInsert = "https://websensordata.000webhostapp.com/android/insert.php";
-    public static final String URLInsert = "http://192.168.1.5:8080/kampus/android/login.php";
+    public static final String URLInsert = "https://websensordata.000webhostapp.com/android/login.php";
+    //public static final String URLInsert = "http://192.168.1.5:8080/kampus/android/login.php";
 
     EditText tnim, tnama;
     Button binput;
