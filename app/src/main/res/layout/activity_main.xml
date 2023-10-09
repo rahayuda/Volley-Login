@@ -41,7 +41,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint=" email"
+            android:hint=" username"
             android:textSize="16dp"
             android:textColor="@color/dream"
             android:textColorHint="@color/dream"
